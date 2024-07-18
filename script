@@ -6,3 +6,5 @@ echo "we are learning git"
 echo " This is the 3rd commit"
 
 df -h
+
+free -m
