@@ -1,2 +1,4 @@
 #!/bin/bash
 echo " Welcome to Devops program"
+
+echo "we are learning git"
